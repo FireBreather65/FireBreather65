@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a collaboration with [mibzall](https://github.com/mibzall).
+- 🔭 I’m currently working on a collab with [mibzall](https://github.com/mibzall).
 - 🌱 I’m currently learning [Vue.js](https://www.codecademy.com/learn/learn-vue-js) on Codecademy.
 - 📫 How to reach me: On CC (@FireBreather65) or KA (@FireBreather65).
 - 😄 Pronouns: Unsure right now, default to she/her.
