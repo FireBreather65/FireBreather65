@@ -1,7 +1,5 @@
 - 🔭 I’m currently working on a collaboration with [mibzall](https://github.com/mibzall).
 - 🌱 I’m currently learning [Vue.js](https://www.codecademy.com/learn/learn-vue-js) on Codecademy.
-- 👯 I’m looking to collaborate on nothing currently.
-- 💬 Ask me about HTML/CSS, especially web design ideas.
-- 📫 How to reach me: Direct messaging on CC (@FireBreather65), or on KA (also @FireBreather65).
-- 😄 Pronouns: Not sure yet, default to she/her.
-- ⚡ Fun fact: I love Imagine Dragons and lofi music.
+- 📫 How to reach me: On CC (@FireBreather65) or KA (@FireBreather65).
+- 😄 Pronouns: Unsure right now, default to she/her.
+- ⚡ Fun fact: I love Imagine Dragons.
