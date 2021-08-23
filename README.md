@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning [Vue.js](https://www.codecademy.com/learn/learn-vue-js) on Codecademy.
 - 📫 How to reach me: On [Codecademy](https://www.codecademy.com/profiles/FireBreather65) or [Khan Academy](https://www.khanacademy.org/profile/FireBreather65/).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love Imagine Dragons.
+- ⚡ Fun fact: All of my current profile pictures include lemons.
