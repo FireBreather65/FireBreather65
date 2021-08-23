@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on a collab with [mibzall](https://github.com/mibzall).
 - 🌱 I’m currently learning [Vue.js](https://www.codecademy.com/learn/learn-vue-js) on Codecademy.
 - 📫 How to reach me: On [Codecademy](https://www.codecademy.com/profiles/FireBreather65) or [Khan Academy](https://www.khanacademy.org/profile/FireBreather65/).
+- 🕛 Timezone: PST (UTC - 7)
 - 😄 Pronouns: Not sure (default to she/her)
 - ⚡ Fun fact: All of my current profile pictures include lemons.
