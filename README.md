@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a collab with [mibzall](https://github.com/mibzall).
-- 🌱 I’m currently learning [Color Design](https://www.codecademy.com/learn/learn-color-design) on Codecademy.
+- 🌱 I’m currently learning [Color Design](https://www.codecademy.com/learn/learn-color-design) and [Git](https://www.codecademy.com/learn/learn-git) on Codecademy.
 - 📫 How to reach me: On [Codecademy](https://www.codecademy.com/profiles/FireBreather65) or [Khan Academy](https://www.khanacademy.org/profile/FireBreather65/).
 - 🕛 Timezone: PST (UTC - 7)
 - 😄 Pronouns: Not sure (default to she/her)
