@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a collab with [mibzall](https://github.com/mibzall).
+- 🔭 I’m currently working on a website for an upscale restaurant (find the repository [here](https://github.com/FireBreather65/restaurant-website)).
 - 🌱 I’m currently learning [Color Design](https://www.codecademy.com/learn/learn-color-design) and [Git](https://www.codecademy.com/learn/learn-git) on Codecademy.
 - 📫 How to reach me: On [Codecademy](https://www.codecademy.com/profiles/FireBreather65) or [Khan Academy](https://www.khanacademy.org/profile/FireBreather65/).
 - 🕛 Timezone: PST (UTC - 7)
