@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76709163/138154557-acaf0e34-8141-4630-b504-d4b48a16171c.png" alt="my banner">
+</p>
 
 <!--
 **FireBreather65/FireBreather65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
