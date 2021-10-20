@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/76709163/138160852-56b46fc3-0559-4be4-b408-f755b6b4ed6b.png" alt="My Header">
 </p>
 
-## 🔭 I'm Currently Working On
-- My Personal Portfolio (coming soon!!)
+<!--## 🔭 I'm Currently Working On
+- My Personal Portfolio (coming soon!!)-->
 
 <!-- ## 🌱 I’m currently learning -->
 
