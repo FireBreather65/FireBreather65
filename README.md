@@ -4,8 +4,8 @@
 
 ## 🔭 I'm currently working on
 - My Personal Portfolio (coming soon)...
-- Personal [Cookmate](https://www.cookmate.online/en/home/) (haven't started)...
-- A replica of [this](https://www.google.com/) (also haven't started)...
+- A [Cookmate](https://www.cookmate.online/en/home/) replica (haven't started)...
+- A nature photography website (also haven't started)...
 - ...and a plethora of other project ideas.
 
 ## 🌱 I’m currently learning
@@ -31,7 +31,7 @@ On here, I don't have any other contacts at the moment.
 
 <p><b>Hobbies:</b> Web Development, Baking (occasionally), Writing, Reading, and Listening to Music</p>
 
-<p><b>Music Taste:</b> Mostly Chillhop, though I absolutely love Imagine Dragons (future project!)</p>
+<p><b>Music Taste:</b> Mostly Chillhop nowadays, though I absolutely love Imagine Dragons (future project!)</p>
 
 ## My Github Stats
 
