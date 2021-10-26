@@ -25,7 +25,7 @@ Nothing currently, though I'm definitely open to collab! 😀
 On here, I don't have any other contacts at the moment.
 
 ## Other Fun Things About Me
-<p><b>Pronouns:</b> they/them (subject to change)</p>
+<p><b>Pronouns:</b> they/them</p>
 
 <p><b>Fun Fact:</b> I recently found out that dolphins live in the ocean.</p>
 
