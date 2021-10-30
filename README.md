@@ -32,10 +32,8 @@ On here, I don't have any other contacts at the moment.
 
 ## My Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=FireBreather65)](https://github.com/FireBreather65)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=firebreather65&theme=calm)
 
 ## My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact)](https://github.com/FireBreather65)
-
-<b>(As of 10/21/2021, there is nothing in the above.)</b>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firebreather65&theme=calm)
