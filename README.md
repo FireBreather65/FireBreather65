@@ -32,8 +32,8 @@ On here, I don't have any other contacts at the moment.
 
 ## My Github Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=firebreather65&theme=calm)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=firebreather65)
 
 ## My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firebreather65&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firebreather65)
