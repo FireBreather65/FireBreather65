@@ -22,7 +22,7 @@ Nothing outstanding at the moment, though that will probably change soon.
 Nothing currently, though I'm definitely open to collab! 😀
 
 ## 📫 How to reach me
-On here, I don't have any other contacts at the moment.
+Under the discussions tab on this repo, I don't have any other contacts at the moment.
 
 ## Other Fun Things About Me
 
