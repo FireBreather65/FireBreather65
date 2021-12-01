@@ -26,9 +26,9 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> My favorite word is dreams (corny, I know).</p>
+<p><b>Fun Fact:</b> My favorite color is Mikado Yellow.</p>
 
-<p><b>Music Taste:</b> Mostly Chillhop, Imagine Dragons (future project!), and Mariah Carey, though I also like music from other artists (such as Lizzo, Tim McGraw, Beyoncé, and the Judds).</p>
+<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons (future project!). I also enjoy (non-religious) Christmas music, as well as songs from other assorted artists (such as Beyoncé, Tim McGraw, the Judds, and Michael Jackson).</p>
 
 ## My Github Stats
 
