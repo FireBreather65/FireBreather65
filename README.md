@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76709163/143827689-e88393f0-0a75-453f-95d9-6f5f0f8a6a3d.gif" alt="My Header">
+  <img src="https://user-images.githubusercontent.com/76709163/148031974-74938c86-6ec3-4718-a1e0-2470e7e3808e.png" alt="My Header">
 </p>
 
 ## 🔭 I'm currently working on
-- A [Cookmate](https://www.cookmate.online/en/home/) replica (at least another year)...
-- A nature photography website (haven't started)...
-- A music store landing page (also haven't started)...
-- ...and a plethora of other project ideas.
+- A few [Cookmate](https://www.cookmate.online/en/home/) replicas...
+- FCC's [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course...
+- and other random things haha
 
-## 🌱 I’m currently learning
-Nothing outstanding at the moment, though that will probably change soon.
+## 🌱 I’m currently (re-)learning
+- Simple HTML/CSS to brush up on basics
 
 ## 🌳 I've already learned
 - HTML/CSS (mastered)
@@ -19,16 +18,16 @@ Nothing outstanding at the moment, though that will probably change soon.
 - Python (familiar)
 
 ## 👯 I’m looking to collaborate on
-Nothing currently, though I'm definitely open to collab! 😀
+Nothing currently, though I'm definitely open for collaboration! 😀
 
 ## 📫 How to reach me
 Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/discussions), as I don't have any other contacts at the moment.
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> My favorite color is Mikado Yellow.</p>
+<p><b>Fun Fact:</b> I. LOVE. CATS.</p>
 
-<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons (future project!). I also enjoy (non-religious) Christmas music, as well as songs from other assorted artists (such as Beyoncé, Tim McGraw, the Judds, and Michael Jackson).</p>
+<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons (future project!).</p>
 
 ## My Github Stats
 
