@@ -3,12 +3,10 @@
 </p>
 
 ## 🔭 I'm currently working on
-- A few [Cookmate](https://www.cookmate.online/en/home/) replicas...
-- FCC's [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course...
-- and other random things haha
+- A few [Cookmate](https://www.cookmate.online/en/home/) replicas and other random things haha
 
-## 🌱 I’m currently (re-)learning
-- Simple HTML/CSS to brush up on basics
+## 🌱 I’m currently learning
+- taking a college prep course (you can never start too early!)
 
 ## 🌳 I've already learned
 - HTML/CSS (mastered)
@@ -25,9 +23,9 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> I. LOVE. CATS.</p>
+<p><b>Fun Fact:</b> I really hope to get into UW.</p>
 
-<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons (future project!).</p>
+<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons. I might make a future project showcasing music I prefer...not sure.</p>
 
 ## My Github Stats
 
