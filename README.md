@@ -3,10 +3,10 @@
 </p>
 
 ## 🔭 I'm currently working on
-- A few [Cookmate](https://www.cookmate.online/en/home/) replicas and other random things haha
+Nothing at the moment.
 
 ## 🌱 I’m currently learning
-- taking a college prep course (you can never start too early!)
+Also nothing ATM, though that will change soon! :)
 
 ## 🌳 I've already learned
 - HTML/CSS (mastered)
