@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76709163/148031974-74938c86-6ec3-4718-a1e0-2470e7e3808e.png" alt="My Header">
-</p>
-
 ## 🔭 I'm currently working on
 Nothing at the moment.
 
@@ -10,9 +6,9 @@ Also nothing ATM, though that will change soon! :)
 
 ## 🌳 I've already learned
 - HTML/CSS (mastered)
-- Javascript & jQuery (proficient)
 - Git & Bash (mastered)
-- Responsive Design (proficient)
+- Javascript & jQuery (proficient)
+- RWD (proficient)
 - Python (familiar)
 
 ## 👯 I’m looking to collaborate on
@@ -25,7 +21,7 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 <p><b>Fun Fact:</b> I really hope to get into UW.</p>
 
-<p><b>Music Taste:</b> Mostly Chillhop, Mariah Carey, and Imagine Dragons. I might make a future project showcasing music I prefer...not sure.</p>
+<p><b>Music Taste:</b> Mariah Carey, Michael Jackson, and Chillhop mostly.</p>
 
 ## My Github Stats
 
