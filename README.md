@@ -23,7 +23,7 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> I'm planning to self-study to become a software engineer instead of going to college!</p>
+<p><b>Fun Fact:</b> I'm planning to self-study to become a software developer instead of going to college!</p>
 
 <p><b>Music Taste:</b> Mariah Carey, Michael Jackson, and Chillhop mostly.</p>
 
