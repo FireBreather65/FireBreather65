@@ -6,7 +6,7 @@
 Nothing at the moment.
 
 ## 🌱 I’m currently learning
-Also nothing ATM, though that will change soon! :)
+[Git and Github](https://www.codecademy.com/learn/learn-git), yet again...
 
 ## 🌳 I've already learned
 - HTML/CSS (mastered)
