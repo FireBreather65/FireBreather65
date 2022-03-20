@@ -9,11 +9,7 @@ Nothing at the moment.
 [Git and Github](https://www.codecademy.com/learn/learn-git), yet again...
 
 ## 🌳 I've already learned
-- HTML/CSS (mastered)
-- Git & Bash (mastered)
-- Javascript & jQuery (proficient)
-- RWD (proficient)
-- Python (familiar)
+...
 
 ## 👯 I’m looking to collaborate on
 Nothing currently, though I'm definitely open for collaboration! 😀
