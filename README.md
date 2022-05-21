@@ -6,7 +6,7 @@
 Nothing at the moment.
 
 ## 🌱 I’m currently learning
-[Git and Github](https://www.codecademy.com/learn/learn-git), yet again...
+Also nothing at the moment, though that will definitely change soon.
 
 ## 🌳 I've already learned
 ...
@@ -19,9 +19,9 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> I'm planning to self-study to become a software developer instead of going to college!</p>
+<p><b>Fun Fact:</b> I was recently diagnosed with ADHD.</p>
 
-<p><b>Music Taste:</b> Mariah Carey, Michael Jackson, and Chillhop mostly.</p>
+<p><b>Music Taste:</b> Mariah Carey, Michael Jackson, Beyoncé, and Chillhop mostly.</p>
 
 ## My Github Stats
 
