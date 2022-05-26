@@ -3,13 +3,14 @@
 </p>
 
 ## 🔭 I'm currently working on
-Nothing at the moment.
+Refreshing my [HTML](https://www.codecademy.com/learn/learn-html) knowledge on Codecademy, and writing short articles on it.
 
 ## 🌱 I’m currently learning
-Also nothing at the moment, though that will definitely change soon.
+Not really learning, more remembering.
 
 ## 🌳 I've already learned
-...
+- [Git and Github](https://www.codecademy.com/learn/learn-git)
+- [UI/UX Design Basics](https://www.codecademy.com/learn/intro-to-ui-ux)
 
 ## 👯 I’m looking to collaborate on
 Nothing currently, though I'm definitely open for collaboration! 😀
@@ -19,9 +20,9 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> I was recently diagnosed with ADHD.</p>
+<p><b>Fun Fact:</b> I'm currently preparing to become a tutor for K-6th graders.</p>
 
-<p><b>Music Taste:</b> Mariah Carey, Michael Jackson, Beyoncé, and Chillhop mostly.</p>
+<p><b>Music Taste:</b> Mariah Carey, Beyoncé, Imagine Dragons, and Chillhop mostly.</p>
 
 ## My Github Stats
 
