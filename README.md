@@ -3,14 +3,15 @@
 </p>
 
 ## 🔭 I'm currently working on
-Refreshing my [HTML](https://www.codecademy.com/learn/learn-html) knowledge on Codecademy, and writing short articles on it.
+[Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css) on Codecademy.
 
 ## 🌱 I’m currently learning
-Not really learning, more remembering.
+Not really learning, more refreshing my memory.
 
 ## 🌳 I've already learned
 - [Git and Github](https://www.codecademy.com/learn/learn-git)
 - [UI/UX Design Basics](https://www.codecademy.com/learn/intro-to-ui-ux)
+- [HTML](https://www.codecademy.com/learn/learn-html) and [CSS](https://www.codecademy.com/learn/learn-css)
 
 ## 👯 I’m looking to collaborate on
 Nothing currently, though I'm definitely open for collaboration! 😀
