@@ -3,7 +3,7 @@
 </p>
 
 ## 🔭 I'm currently working on
-[Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css) on Codecademy.
+Starting a blog on [Hashnode](https://hashnode.com/)
 
 ## 🌱 I’m currently learning
 Not really learning, more refreshing my memory.
@@ -12,6 +12,7 @@ Not really learning, more refreshing my memory.
 - [Git and Github](https://www.codecademy.com/learn/learn-git)
 - [UI/UX Design Basics](https://www.codecademy.com/learn/intro-to-ui-ux)
 - [HTML](https://www.codecademy.com/learn/learn-html) and [CSS](https://www.codecademy.com/learn/learn-css)
+- [Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)
 
 ## 👯 I’m looking to collaborate on
 Nothing currently, though I'm definitely open for collaboration! 😀
