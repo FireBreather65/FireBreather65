@@ -22,7 +22,7 @@ Under the [discussions tab](https://github.com/FireBreather65/FireBreather65/dis
 
 ## Other Fun Things About Me
 
-<p><b>Fun Fact:</b> I'm currently preparing to become a tutor for K-6th graders.</p>
+<p><b>Fun Fact:</b> I've spent the past 6 weeks tutoring two (adorable) first graders.</p>
 
 <p><b>Music Taste:</b> Mariah Carey, Beyoncé, Imagine Dragons, and Chillhop mostly, though I'm open to anyone.</p>
 
