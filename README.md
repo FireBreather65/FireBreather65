@@ -3,16 +3,14 @@
 </p>
 
 ## 🔭 I'm currently working on
-Starting a blog on [Hashnode](https://hashnode.com/)
+- keeping [my Hashnode blog](https://firebreather65.hashnode.dev/) updated
+- preparing to get my GED next year (when I turn 16)
 
 ## 🌱 I’m currently learning
 Not really learning, more refreshing my memory.
 
 ## 🌳 I've already learned
 - [Git and Github](https://www.codecademy.com/learn/learn-git)
-- [UI/UX Design Basics](https://www.codecademy.com/learn/intro-to-ui-ux)
-- [HTML](https://www.codecademy.com/learn/learn-html) and [CSS](https://www.codecademy.com/learn/learn-css)
-- [Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)
 
 ## 👯 I’m looking to collaborate on
 Nothing currently, though I'm definitely open for collaboration! 😀
