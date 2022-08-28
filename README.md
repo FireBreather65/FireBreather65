@@ -21,6 +21,8 @@
 
 #### ✨ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Git Bash](https://firebreather65.hashnode.dev/introduction-to-git-bash)
+- [Introduction to Git Bash](https://dev.to/firebreather65/introduction-to-git-bash-pdk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
