@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65) and Dev.to (@FireBreather65).
 
-- 💬 Ask me about Git and Github.
+- 💬 Ask me about Git, Github, and Markdown.
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
@@ -29,7 +29,7 @@
   <summary><b>About Me</b></summary>
   <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
   <p>So far, I've learned Git and Github proficiently. I've also written articles about my findings, which you can find linked above.</p>
-  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn HTML and CSS! 😊</p>
+  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn about the ! 😊</p>
   <!-- Chillhop version of Spotify (future project) -->
 </details>
 
@@ -43,20 +43,19 @@
 
 <details>
   <summary><b>Stats and Streaks</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=FireBreather65&layout=compact&show_icons=true&theme=prussian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact&theme=prussian" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=prussian" />
-  <!-- use align="center" in the future (once languages is filled) -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireBreather65&layout=compact&show_icons=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact&theme=prussian" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=prussian" />
 </details>
 
 <details>
-  <summary><b>Awards and Achievements</b></summary>
-  <p>There are none! I'm not far enough along just yet :)</p>
-  <!-- list GH awards and achievements -->
+  <summary><b>Achievements and Awards</b></summary>
+  <p>I'm not that far along just yet :)</p>
+  <!-- use https://github.com/ryo-ma/github-profile-trophy -->
 </details>
 
 <details>
   <summary><b>Connect with Me</b></summary>
-  <p>Again, nothing! I'm not on social media just yet, nor am I old enough to share my email.</p>
+  <p>I'm not on social media just yet, nor am I old enough to share my email. You can still connect with me, using the options detailed above.</p>
   <!-- use https://github.com/Ileriayo/markdown-badges -->
 </details>
