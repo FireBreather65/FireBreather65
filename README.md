@@ -9,7 +9,7 @@
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
-- ⚡ In my freetime, I love to code, listen to music, and read.
+- ⚡ In my free time, I love to read, write, or learn a new skill.
 ```
 
 <!-- - 🌱 I’m currently learning ... -->
@@ -27,27 +27,36 @@
 
 <details>
   <summary><b>About Me</b></summary>
-  <!-- Details about me, Currently reading -->
-  <!-- Chillhop version of CP (future project) -->
+  <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
+  <p>So far, I've learned Git and Github proficiently. I've also written articles about my findings, which you can find linked above.</p>
+  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn HTML and CSS! 😊</p>
+  <!-- Chillhop version of Spotify (future project) -->
 </details>
 
 <details>
   <summary><b>Languages and Tools</b></summary>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <!-- use https://github.com/Ileriayo/markdown-badges -->
 </details>
 
 <details>
   <summary><b>Stats and Streaks</b></summary>
-  <!-- use https://github.com/anuraghazra/github-readme-stats for stats -->
-  <!-- use https://github.com/DenverCoder1/github-readme-streak-stats for streaks -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FireBreather65&layout=compact&show_icons=true&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact&theme=prussian" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=prussian" />
+  <!-- use align="center" in the future (once languages is filled) -->
 </details>
 
 <details>
   <summary><b>Awards and Achievements</b></summary>
+  <p>There are none! I'm not far enough along just yet :)</p>
   <!-- list GH awards and achievements -->
 </details>
 
 <details>
-  <summary><b>About Me</b></summary>
-  <!-- use https://github.com/Ileriayo/markdown-badges or https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+  <summary><b>Connect with Me</b></summary>
+  <p>Again, nothing! I'm not on social media just yet, nor am I old enough to share my email.</p>
+  <!-- use https://github.com/Ileriayo/markdown-badges -->
 </details>
