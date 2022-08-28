@@ -19,19 +19,35 @@
 <!-- - 📄 Know about my experiences [in my resume](resume link) -->
 <!-- Sort with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-#### ✨ Latest Blog Posts
+#### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Git Bash](https://firebreather65.hashnode.dev/introduction-to-git-bash)
 - [Introduction to Git Bash](https://dev.to/firebreather65/introduction-to-git-bash-pdk)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/firebreather65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="firebreather65" height="30" width="40" /></a>
-<a href="https://hashnode.com/@firebreather65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@firebreather65" height="30" width="40" /></a>
-</p>
+<details>
+  <summary><b>About Me</b></summary>
+  <!-- Details about me, Currently reading -->
+  <!-- Chillhop version of CP (future project) -->
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<details>
+  <summary><b>Languages and Tools</b></summary>
+  <!-- use https://github.com/Ileriayo/markdown-badges -->
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firebreather65&show_icons=true&theme=gruvbox&locale=en" alt="firebreather65" /></p>
+<details>
+  <summary><b>Stats and Streaks</b></summary>
+  <!-- use https://github.com/anuraghazra/github-readme-stats for stats -->
+  <!-- use https://github.com/DenverCoder1/github-readme-streak-stats for streaks -->
+</details>
+
+<details>
+  <summary><b>Awards and Achievements</b></summary>
+  <!-- list GH awards and achievements -->
+</details>
+
+<details>
+  <summary><b>About Me</b></summary>
+  <!-- use https://github.com/Ileriayo/markdown-badges or https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+</details>
