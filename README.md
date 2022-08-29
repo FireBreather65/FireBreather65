@@ -29,15 +29,15 @@
   <summary><b>About Me</b></summary>
   <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
   <p>So far, I've learned Git and Github proficiently. I've also written articles about my findings, which you can find linked above.</p>
-  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn about the ! 😊</p>
+  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn HTML and CSS! 😊</p>
   <!-- Chillhop version of Spotify (future project) -->
 </details>
 
 <details>
-  <summary><b>Languages and Tools</b></summary>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <summary><b>Languages, Tools, and Frameworks</b></summary>
+  <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img title="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <!-- use https://github.com/Ileriayo/markdown-badges -->
 </details>
 
