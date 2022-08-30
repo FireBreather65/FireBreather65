@@ -21,6 +21,7 @@
 
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the File System](https://firebreather65.hashnode.dev/navigating-the-file-system)
 - [Introduction to Git Bash](https://firebreather65.hashnode.dev/introduction-to-git-bash)
 <!-- BLOG-POST-LIST:END -->
 
