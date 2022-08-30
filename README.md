@@ -1,9 +1,9 @@
 <img src="github-header.gif" />
 
 ```
-- 🔭 I’m currently working on writing articles for my blogs.
+- 🔭 I’m currently working on writing articles for my blog.
 
-- 📝 I regularly write articles on Hashnode (@FireBreather65) and Dev.to (@FireBreather65).
+- 📝 I regularly write articles on Hashnode (@FireBreather65).
 
 - 💬 Ask me about Git, Github, and Markdown.
 
@@ -22,7 +22,6 @@
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to Git Bash](https://firebreather65.hashnode.dev/introduction-to-git-bash)
-- [Introduction to Git Bash](https://dev.to/firebreather65/introduction-to-git-bash-pdk)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
