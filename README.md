@@ -1,7 +1,8 @@
 <img src="github-header.gif" />
 
 ```
-- 🔭 I’m currently working on writing articles for my blog.
+
+- 🌱 I’m currently (re-)learning [HTML](https://www.codecademy.com/learn/learn-html) using Codecademy.
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
@@ -12,7 +13,7 @@
 - ⚡ In my free time, I love to read, write, or learn a new skill.
 ```
 
-<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 👨‍💻 All of my projects are available [in my portfolio](portfolio link) -->
