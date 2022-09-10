@@ -1,12 +1,11 @@
 <img src="github-header.gif" />
 
 ```
-
-- 🌱 I’m currently (re-)learning HTML using Codecademy.
+- 🌱 I’m currently (re-)learning CSS using Codecademy.
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Git, Github, and Markdown.
+- 💬 Ask me about Git, Github, Markdown, and HTML.
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
@@ -31,7 +30,7 @@
   <summary><b>About Me</b></summary>
   <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
   <p>So far, I've learned Git and Github proficiently. I've also written articles about my findings, which you can find linked above.</p>
-  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn HTML! 😊</p>
+  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn CSS! 😊</p>
   <!-- Chillhop version of Spotify (future project) -->
 </details>
 
