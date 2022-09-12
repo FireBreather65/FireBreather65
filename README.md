@@ -1,11 +1,11 @@
 <img src="github-header.gif" />
 
 ```
-- 🌱 I’m currently (re-)learning CSS using Codecademy.
+- 🌱 I’m currently learning Intermediate CSS using Codecademy.
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Git, Github, Markdown, and HTML.
+- 💬 Ask me about Git, Github, HTML5, and CSS3.
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
@@ -29,8 +29,8 @@
 <details>
   <summary><b>About Me</b></summary>
   <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
-  <p>So far, I've learned Git and Github proficiently. I've also written articles about my findings, which you can find linked above.</p>
-  <p>I've detailed a personal plan to learn as many different developer skills as possible. Next up, learn CSS! 😊</p>
+  <p>So far, I've proficiently learned (and written articles about) Git Bash and Github. I've also learned HTML and CSS, though I haven't written articles on either yet.</p>
+  <p>I've also detailed a personal plan to learn as many developer skills as possible. Next up, learn Intermediate CSS! 😊</p>
   <!-- Chillhop version of Spotify (future project) -->
 </details>
 
@@ -38,7 +38,8 @@
   <summary><b>Languages, Tools, and Frameworks</b></summary>
   <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img title="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- use https://github.com/Ileriayo/markdown-badges -->
 </details>
 
