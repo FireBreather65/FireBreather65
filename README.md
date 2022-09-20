@@ -21,6 +21,7 @@
 
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Connecting Git and Github](https://firebreather65.hashnode.dev/connecting-git-and-github)
 - [Introduction to Git and Github](https://firebreather65.hashnode.dev/introduction-to-git-and-github)
 - [Changing the File System](https://firebreather65.hashnode.dev/changing-the-file-system)
 - [Navigating the File System](https://firebreather65.hashnode.dev/navigating-the-file-system)
