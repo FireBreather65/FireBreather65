@@ -1,15 +1,15 @@
 <img src="github-header.gif" />
 
 ```
-- 🌱 I’m currently learning Intermediate CSS using Codecademy.
+- 🌱 I’m currently improving my Accessibility knowledge using w3schools.
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Git, Github, HTML5, and CSS3.
+- 💬 Ask me about Git, Github, HTML5, CSS3, and UI/UX.
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
-- ⚡ In my free time, I love to read, write, or learn a new skill.
+- ⚡ In my free time, I love to read, write, or listen to music.
 ```
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -30,8 +30,8 @@
 <details>
   <summary><b>About Me</b></summary>
   <p>Hi there! My name is Malycia, and I'm a homeschooled 10th grader from the United States. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
-  <p>So far, I've proficiently learned (and written articles about) Git Bash and Github. I've also learned HTML and CSS, though I haven't written articles on either yet.</p>
-  <p>I've also detailed a personal plan to learn as many developer skills as possible. Next up, learn Intermediate CSS! 😊</p>
+  <p>So far, I've proficiently learned (and written articles about) Git Bash and Github. I've also learned HTML, CSS, and UI/UX, though I haven't written articles on any of those yet.</p>
+  <p>I've also detailed a personal plan to learn as many developer skills as possible. <!--Next up, learn [language]! 😊--></p>
   <!-- Chillhop version of Spotify (future project) -->
 </details>
 
