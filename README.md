@@ -1,7 +1,7 @@
 <img src="github-header.gif" />
 
 ```
-- 🌱 I’m currently improving my Accessibility knowledge using w3schools.
+- 🌱 I’m currently improving my UX knowledge using Uxcel.
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
