@@ -1,7 +1,7 @@
 <img src="github-header.gif" />
 
 ```
-- 🌱 I’m currently improving my HTML and CSS knowledge using w3schools.
+- 🔭 I’m currently working on a Codecademy project (Excursion).
 
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
@@ -12,7 +12,7 @@
 - ⚡ In my free time, I love to read, write, or listen to music.
 ```
 
-<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently improving my HTML and CSS knowledge using w3schools. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 👨‍💻 All of my projects are available [in my portfolio](portfolio link) -->
