@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Git, Github, HTML5, CSS3, and UI/UX.
+- 💬 Ask me about Git, Github, HTML5, and CSS3.
 
 - 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
 
@@ -29,8 +29,8 @@
 
 <details>
   <summary><b>About Me</b></summary>
-  <p>Hello! My name is Malycia, and I'm a homeschooled 10th grader from the US. I've been coding off and on for a couple years now, and I'm ready to become a more consistent learner.</p>
-  <p>I have proficiently learned <a href="https://firebreather65.hashnode.dev/series/git-for-foodies">(and written articles about)</a> Git Bash and Github, though I also know HTML, CSS, and UI/UX. I've also detailed a personal plan to learn as many designer skills as possible, as I dream of being a UI/UX designer. 😄</p>
+  <p>Hello! My name is Malycia, and I am a homeschooled 10th grader from the United States. I have been coding off and on for a couple years now, and I am ready to become a more consistent learner.</p>
+  <p>I have proficiently learned and written articles about Git Bash and Github, though I also know HTML and CSS. I have also detailed a personal plan to learn as many designer skills as possible, as I dream of being a UI/UX designer. 😄</p>
 </details>
 
 <details>
