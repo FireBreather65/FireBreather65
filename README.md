@@ -30,7 +30,7 @@
 <details>
   <summary><b>About Me</b></summary>
   <p>Hello! My name is Malycia, and I am a homeschooled 10th grader from the United States. I have been coding off and on for a couple years now, and I am ready to become a more consistent learner.</p>
-  <p>I have proficiently learned and written articles about Git Bash and Github, though I also know HTML and CSS. I have also detailed a personal plan to learn as many designer skills as possible, as I dream of being a UI/UX designer. 😄</p>
+  <p>I have proficiently learned and written articles about Git Bash and Github, though I also know HTML and CSS. I have also detailed a personal plan to learn as many frontend web development and design skills as possible, as I dream of being a UI/UX designer. 😄</p>
 </details>
 
 <details>
