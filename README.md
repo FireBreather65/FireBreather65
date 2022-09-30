@@ -1,4 +1,4 @@
-<img src="new-github-header.gif" />
+<img src="github-header.gif" />
 
 ```
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
