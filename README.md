@@ -20,11 +20,11 @@
 
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Git and Github: Backtracking](https://firebreather65.hashnode.dev/git-and-github-backtracking)
 - [Git and Github: Best Practices](https://firebreather65.hashnode.dev/git-and-github-best-practices)
 - [Connecting Git and Github](https://firebreather65.hashnode.dev/connecting-git-and-github)
 - [Introduction to Git and Github](https://firebreather65.hashnode.dev/introduction-to-git-and-github)
 - [Changing the File System](https://firebreather65.hashnode.dev/changing-the-file-system)
-- [Navigating the File System](https://firebreather65.hashnode.dev/navigating-the-file-system)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
