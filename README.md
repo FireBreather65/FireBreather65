@@ -20,11 +20,11 @@
 
 #### Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Helpful Git Commands](https://firebreather65.hashnode.dev/helpful-git-commands)
+- [Summary of Git Bash](https://firebreather65.hashnode.dev/summary-of-git-bash)
 - [Git and Github: Branching](https://firebreather65.hashnode.dev/git-and-github-branching)
 - [Git and Github: Backtracking](https://firebreather65.hashnode.dev/git-and-github-backtracking)
 - [Git and Github: Best Practices](https://firebreather65.hashnode.dev/git-and-github-best-practices)
-- [Connecting Git and Github](https://firebreather65.hashnode.dev/connecting-git-and-github)
-- [Introduction to Git and Github](https://firebreather65.hashnode.dev/introduction-to-git-and-github)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
