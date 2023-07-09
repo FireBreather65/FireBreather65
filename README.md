@@ -3,11 +3,11 @@
 ```
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Git, Github, HTML5, and CSS3.
+- 💬 Ask me about Figma, Git, Github, Markdown, HTML5, and CSS3.
 
-- 📫 You can reach me in the comments of my articles or under the discussions tab of this repo.
+- 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
-- ⚡ In my free time, I love to read, write, or listen to music.
+- ⚡ In my free time, I love to listen to music or spend time with my cat.
 ```
 
 <!-- - 🌱 I’m currently improving my HTML and CSS knowledge using w3schools. -->
@@ -29,14 +29,16 @@
 
 <details>
   <summary><b>About Me</b></summary>
-  <p>Hello! My name is Malycia, and I am a homeschooled 10th grader from the United States. I have been coding off and on for a couple years now, and I am ready to become a more consistent learner.</p>
-  <p>I have proficiently learned and written articles about Git Bash and Github, though I also know HTML and CSS. I have also detailed a personal plan to learn as many frontend web development and design skills as possible, as I dream of being a UI/UX designer. 😄</p>
+  <p>Hello! My name is Malycia. I'm a recent graduate who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner.</p>
+  <p>I hope to become a UI/UX designer in the future, so most of my coursework pertains to those subjects. I've also written articles about Git Bash and Github, which you can find links to above.</p>
 </details>
 
 <details>
   <summary><b>Languages, Tools, and Frameworks</b></summary>
+  <img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img title="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- use https://github.com/Ileriayo/markdown-badges -->
@@ -46,17 +48,15 @@
   <summary><b>Stats and Streaks</b></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireBreather65&layout=compact&show_icons=true&theme=prussian" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact&theme=prussian" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=prussian" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FireBreather65&theme=prussian" />
 </details>
 
 <details>
   <summary><b>Achievements and Awards</b></summary>
-  <p>I'm not that far along just yet :)</p>
-  <!-- use https://github.com/ryo-ma/github-profile-trophy -->
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=FireBreather65&theme=nord" />
 </details>
 
 <details>
   <summary><b>Connect with Me</b></summary>
-  <p>I'm not on social media just yet, nor am I old enough to share my email. You can still connect with me, using the options detailed above.</p>
-  <!-- use https://github.com/Ileriayo/markdown-badges -->
+  <p>You can contact me on either <a href="https://www.linkedin.com/in/malycia-a-338524282/">LinkedIn</a> or the discussions tab of this repo - I should respond within 24 hours 🙂</p>
 </details>
