@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly write articles on Hashnode (@FireBreather65).
 
-- 💬 Ask me about Figma, Git, Github, Markdown, HTML5, and CSS3.
+- 💬 Ask me about Git, GitHub, Markdown, Figma, UI, UX, HTML, and CSS.
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
