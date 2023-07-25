@@ -1,7 +1,9 @@
 <img src="github-header.gif" />
 
 ```
-- 📝 I regularly write articles on Hashnode (@FireBreather65).
+- 📝 I regularly post design solutions on Dribbble (@FireBreather65)
+
+- 🌱 I’m currently working on building my network and completing DailyUI's 100 Days of Design.
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
@@ -10,7 +12,7 @@
 - ⚡ In my free time, I love to listen to music or spend time with my cat.
 ```
 
-<!-- - 🌱 I’m currently improving my HTML and CSS knowledge using w3schools. -->
+<!-- -  -->
 <!-- - 🔭 I’m currently working on a project. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -18,19 +20,10 @@
 <!-- - 📄 Know about my experiences [in my resume](resume link) -->
 <!-- Sort with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-#### Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Summary of Git Bash](https://firebreather65.hashnode.dev/summary-of-git-bash)
-- [Helpful Git Commands](https://firebreather65.hashnode.dev/helpful-git-commands)
-- [Git and Github: Branching](https://firebreather65.hashnode.dev/git-and-github-branching)
-- [Git and Github: Backtracking](https://firebreather65.hashnode.dev/git-and-github-backtracking)
-- [Git and Github: Best Practices](https://firebreather65.hashnode.dev/git-and-github-best-practices)
-<!-- BLOG-POST-LIST:END -->
-
 <details>
   <summary><b>About Me</b></summary>
   <p>Hello! My name is Malycia. I'm a recent graduate who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner.</p>
-  <p>I hope to become a UI/UX designer in the future, so most of my coursework pertains to those subjects. I've also written articles about Git Bash and Github, which you can find links to above.</p>
+  <p>I hope to become a UI/UX designer in the future, so most of my coursework pertains to those subjects. I also post daily design solutions on my Dribbble account, which you can find linked in my profile.</p>
 </details>
 
 <details>
