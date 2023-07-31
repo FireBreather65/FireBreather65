@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly post design solutions on Dribbble (@FireBreather65)
 
-- 🌱 I’m currently working on building my network and completing DailyUI's 100 Days of Design.
+- 🌱 I’m currently working on building my network, creating a personal design system, and completing DailyUI's 100 Days of Design.
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
