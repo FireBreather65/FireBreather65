@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly post design solutions on Dribbble (@FireBreather65)
 
-- 🌱 I’m currently working on building my network and completing DailyUI's 100 Days of Design.
+- 🌱 I’m currently working on building my network and making websites.
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
@@ -22,8 +22,7 @@
 
 <details>
   <summary><b>About Me</b></summary>
-  <p>Hello! My name is Malycia. I'm a recent graduate who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner.</p>
-  <p>I hope to become a UI/UX designer in the future, so most of my coursework pertains to those subjects. I also post daily design solutions on my Dribbble account, which you can find linked in my profile.</p>
+  <p>Hello! My name is Malycia. I'm a recent graduate who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner. I hope to become a UI/UX designer in the future, so most of my coursework pertains to those subjects.</p>
 </details>
 
 <details>
