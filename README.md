@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly post design solutions on Dribbble (@FireBreather65)
 
-- 🌱 I’m currently working on building my network and making websites.
+- 🌱 I’m currently working on Kode Crumbs (with @cskartikey)
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
