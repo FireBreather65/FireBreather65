@@ -3,7 +3,7 @@
 ```
 - 📝 I regularly post design solutions on Dribbble (@FireBreather65)
 
-- 🌱 I’m currently working on Hack the Sound (with @aramshiva)
+- 🌱 I’m currently working on Sweet Comforts Bakery's website.
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
@@ -22,7 +22,7 @@
 
 <details>
   <summary><b>About Me</b></summary>
-  <p>Hello! My name is Malycia. I'm an event organizer who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner. I hope to become a UI/UX designer in the future, so most of my coursework pertains to that.</p>
+  <p>Hello! My name is Malycia. I'm an aspiring UI/UX designer who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner.</p>
 </details>
 
 <details>
