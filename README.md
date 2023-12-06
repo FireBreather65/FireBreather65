@@ -1,4 +1,4 @@
-<img src="github-header.gif" />
+<img src="github-header.png" />
 
 ```
 - 📝 I regularly post design solutions on Dribbble (@FireBreather65)
