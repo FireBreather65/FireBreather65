@@ -1,29 +1,22 @@
 <img src="github-header.png" />
 
 ```
-- 📝 I regularly post design solutions on Dribbble (@FireBreather65)
-
-- 🌱 I’m currently working on Sweet Comforts Bakery's website.
+- 🌱 I’m currently working on earning my Responsive Web Design Certification on freeCodeCamp.
 
 - 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
-- ⚡ In my free time, I love to listen to music or spend time with my cat.
+- ⚡ In my free time, I love to listen to music, spend time with my cat, or hang out on the Hack Club Slack.
 ```
 
-<!-- -  -->
+<!-- - 📝 I regularly ... -->
 <!-- - 🔭 I’m currently working on a project. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 👨‍💻 All of my projects are available [in my portfolio](portfolio link) -->
 <!-- - 📄 Know about my experiences [in my resume](resume link) -->
 <!-- Sort with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
-<details>
-  <summary><b>About Me</b></summary>
-  <p>Hello! My name is Malycia. I'm an aspiring UI/UX designer who lives in the Pacific Northwest. I've been coding on and off for a few years now and I'm ready to become a more consistent learner.</p>
-</details>
 
 <details>
   <summary><b>Languages, Tools, and Frameworks</b></summary>
