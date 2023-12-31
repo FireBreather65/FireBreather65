@@ -7,7 +7,7 @@
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
-- ⚡ In my free time, I love to listen to music, spend time with my cat, or hang out on the Hack Club Slack.
+- ⚡ In my free time, I love to listen to music, spend time with my cat, or [hang out on the Hack Club Slack](https://hackclub.com/slack/).
 ```
 
 <!-- - 📝 I regularly ... -->
