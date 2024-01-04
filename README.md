@@ -1,9 +1,9 @@
 <img src="github-header.png" />
 
 ```
-- 🌱 I’m currently working on earning my Responsive Web Design Certification on freeCodeCamp.
+- 🌱 I’m currently working towards earning my Responsive Web Design Certification on freeCodeCamp.
 
-- 💬 Ask me about Git, GitHub, UI, UX, HTML5, and CSS3.
+- 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
@@ -23,7 +23,6 @@
   <img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img title="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <!-- use https://github.com/Ileriayo/markdown-badges -->
