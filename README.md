@@ -42,5 +42,5 @@
 
 <details>
   <summary><b>Connect with Me</b></summary>
-  <p>You can contact me <a href="https://www.linkedin.com/in/malycia-a-338524282/">LinkedIn</a>, DM me on the Hack Club Slack, or comment in the discussions tab of this repo - I should respond within 24 hours 🙂</p>
+  <p>You can contact me <a href="https://www.linkedin.com/in/malycia-a-338524282/">LinkedIn</a>, DM me on the <a href="https://hackclub.com/slack/">Hack Club Slack</a>, or comment in the discussions tab of this repo - I should respond within 24 hours 🙂</p>
 </details>
