@@ -1,4 +1,4 @@
-<img src="github-header.png" />
+<img src="header.png" />
 
 ```
 - 🌱 I’m currently working towards earning my Responsive Web Design Certification on freeCodeCamp.
