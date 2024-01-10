@@ -1,4 +1,4 @@
-<img src="header.png" />
+<img src="header.gif" />
 
 ```
 - 🌱 I’m currently working towards earning my Responsive Web Design Certification on freeCodeCamp.
@@ -42,5 +42,5 @@
 
 <details>
   <summary><b>Connect with Me</b></summary>
-  <p>You can DM me on the Hack Club Slack (preferred), contact me LinkedIn, or comment in the discussions tab of this repo - I should respond within 24 hours 🙂</p>
+  <p>I would prefer to be sent a DM on the Hack Club Slack. If you don't have access, you can also message me LinkedIn, or comment in the discussions tab of this repo - I should respond within 24 hours 🙂</p>
 </details>
