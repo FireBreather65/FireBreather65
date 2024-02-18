@@ -1,4 +1,4 @@
-<img src="2-17-header.png" />
+<img src="2-18-header.png" />
 
 ```
 - 🌱 I’m currently working towards earning my Responsive Web Design Certification on freeCodeCamp.
