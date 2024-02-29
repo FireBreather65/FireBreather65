@@ -1,7 +1,7 @@
 <img src="2-18-header.png" />
 
 ```
-- 🌱 I’m currently working towards earning my Responsive Web Design Certification on freeCodeCamp.
+- 🌱 I’m currently working on redesigning and developing in the hc-workshop-wonderland repo.
 
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
