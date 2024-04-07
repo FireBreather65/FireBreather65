@@ -1,7 +1,7 @@
 <img src="2-18-header.png" />
 
 ```
-- 🌱 I’m currently working on redesigning and developing in the hc-workshop-wonderland repo.
+- 🌱 I’m currently working on hosting a hackathon for female and gender-diverse students in the Seattle area.
 
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
