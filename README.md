@@ -1,7 +1,7 @@
 <img src="2-18-header.png" />
 
 ```
-- 🌱 I’m currently working on hosting a hackathon for female and gender-diverse students in the Seattle area.
+- 🌱 I’m currently working on developing a website for a local bakery.
 
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
