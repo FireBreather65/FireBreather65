@@ -1,13 +1,13 @@
 <img src="2-18-header.png" />
 
 ```
-- 🌱 I’m currently working on developing a website for a local bakery.
+- 🌱 I’m currently working on learning React and developing my personal portfolio.
 
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
 
-- ⚡ In my free time, I love to listen to music, spend time with my cat, or hang out on the Hack Club Slack.
+- ⚡ In my free time, I love to taking public transit, listening to music, or hanging out on Slack.
 ```
 
 <!-- - 📝 I regularly ... -->
