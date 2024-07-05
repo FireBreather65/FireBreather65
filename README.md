@@ -1,7 +1,7 @@
 <img src="2-18-header.png" />
 
 ```
-- 🌱 I’m currently working on learning React and developing my personal portfolio.
+- 🌱 I’m currently working as a Summer Intern at Hack Club.
 
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
