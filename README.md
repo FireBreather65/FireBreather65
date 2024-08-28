@@ -1,7 +1,6 @@
 <img src="2-18-header.png" />
 
 ```
-
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
 - 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
