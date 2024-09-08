@@ -3,7 +3,7 @@
 ```
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
-- 🙌🏾 In my free time, I love taking public transit, listening to music, or practicing my photography skills (or all 3)
+- 🙌🏾 In my free time, I love listening to music, taking public transit, and practicing my photography skills.
 
 - 📫 You can email me at malyciaashley(at)gmail.com.
 ```
