@@ -3,9 +3,9 @@
 ```
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
 
-- 📫 You can reach me in the ways detailed in the "Connect with Me" section of this repo.
-
 - ⚡ In my free time, I love to taking public transit, listening to music, or practicing my photography skills (or all 3 at once 😉)
+
+- 📫 You can email me at malyciaashley(at)gmail.com.
 ```
 
 <!-- - 🔭 I’m currently working on a project. -->
@@ -32,9 +32,4 @@
 <details>
   <summary><b>Achievements and Awards</b></summary>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=FireBreather65&theme=nord" />
-</details>
-
-<details>
-  <summary><b>Connect with Me</b></summary>
-  <p>To get in contact with me, please email malyciaashley(at)gmail.com.</p>
 </details>
