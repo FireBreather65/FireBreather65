@@ -1,4 +1,4 @@
-<img src="2-18-header.png" />
+<img src="10-15-banner.png" />
 
 ```
 - 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
