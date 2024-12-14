@@ -1,35 +1,12 @@
 <img src="10-15-banner.png" />
 
-```
-- 💬 Ask me about Figma, Git, GitHub, HTML5, and CSS3.
+## About me 🧑🏾‍💻
 
-- 🙌🏾 In my free time, I love listening to music, taking public transit, and practicing my photography skills.
+Ever since I was a kid, I knew I wanted a job in a creative field. Through the years I tried dabbling in writing, beading, origami, even piano - but when I graduated high school at 16 and discovered the field of UX design, I knew I had found my calling. I fell in love with designing interfaces and the ability to use my natural creativity to positively impact users and the world.
 
-- 📫 You can email me at malyciaashley(at)gmail.com.
-```
+My past jobs have taught me the importance of collaboration, communication, and attention to detail - all crucial skills in my journey into UX. I’m also committed to equity-focused design, as I've found that hearing from diverse perspectives can positively impact the experience for all users.
 
-<!-- - 🔭 I’m currently working on a project. -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-
-<details>
-  <summary><b>Languages, Tools, and Frameworks</b></summary>
-  <img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- use https://github.com/Ileriayo/markdown-badges -->
-</details>
-
-<details>
-  <summary><b>Stats and Streaks</b></summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FireBreather65&layout=compact&show_icons=true&theme=prussian" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBreather65&layout=compact&theme=prussian" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FireBreather65&theme=prussian" />
-</details>
-
-<details>
-  <summary><b>Achievements and Awards</b></summary>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=FireBreather65&theme=nord" />
-</details>
+## Let's connect! 💕
+- [Website](https://firebreather65-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/malycia-ashley/)
+- [Email](mailto:malyciaashley@gmail.com)
