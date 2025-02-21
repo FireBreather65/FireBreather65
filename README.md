@@ -1,4 +1,4 @@
-<img src="2-20-header.png" />
+<img src="2-20-header.png" width="100%" />
 
 ## About me 🧑🏾‍💻
 
