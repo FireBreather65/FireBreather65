@@ -9,6 +9,6 @@ My past jobs have taught me the importance of collaboration, communication, and 
 I’m currently working to hone my skills across various stages of the design process and am aiming to find my perfect role by mid- to late 2025. If you’re interested in connecting or hiring me, I’d love to hear from you!
 
 ## Let's connect! 💕
-- [Website](https://firebreather65-portfolio.vercel.app/)
+- [Website](https://firebreather65.framer.website/)
 - [LinkedIn](https://www.linkedin.com/in/malycia-ashley/)
 - [Email](mailto:malyciaashley@gmail.com)
