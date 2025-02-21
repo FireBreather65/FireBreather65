@@ -1,4 +1,4 @@
-<img src="12-26-profile-header.png" />
+<img src="2-20-header.png" />
 
 ## About me 🧑🏾‍💻
 
